@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|c:\\users\\gmktec\\videos\\spy\\exterminio_rat_cliente\\exterminio_rat_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\exterminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\exterminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\exterminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\exterminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\CompresionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exterminio_RAT_Cliente\\CompresionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\diskdetectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\diskdetectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\paqueteinformacionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\paqueteinformacionenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GMKtec\\Videos\\icos\\ico\\7z.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\screencapturehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\screencapturehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Exterminio_RAT_Cliente||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\exterminio_rat_cliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB31DDA0-6F05-4746-B43D-A047FB76E3AD}|Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj|solutionrelative:exterminio_rat_cliente\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompresionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\CompresionHandler.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\CompresionHandler.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\CompresionHandler.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\CompresionHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:41:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exterminar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminar.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Exterminar.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Exterminar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:24:08.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exterminar.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminar.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Exterminar.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminar.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Exterminar.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:24:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:03:03.052Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:46:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Program.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Program.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:53:28.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "7z.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [256x256, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\icos\\ico\\7z.ico",
+              "RelativeDocumentMoniker": "..\\..\\icos\\ico\\7z.ico",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\icos\\ico\\7z.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [256x256, 32 bits, PNG]",
+              "RelativeToolTip": "..\\..\\icos\\ico\\7z.ico -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [256x256, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-08-29T20:34:36.724Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - Icon [256x256, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiskDetectionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\DiskDetectionHandler.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\DiskDetectionHandler.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\DiskDetectionHandler.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\DiskDetectionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:44:32.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Properties\\Resources.resx",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-27T11:35:11.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScreenCaptureHandler.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\ScreenCaptureHandler.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\ScreenCaptureHandler.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\ScreenCaptureHandler.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\ScreenCaptureHandler.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:58:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaqueteInformacionEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\PaqueteInformacionEnvio.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\PaqueteInformacionEnvio.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\PaqueteInformacionEnvio.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\PaqueteInformacionEnvio.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAADwv70AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T21:54:42.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exterminio_RAT_Cliente",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T04:03:33.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Exterminio_RAT_Cliente\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GMKtec\\Videos\\Spy\\Exterminio_RAT_Cliente\\Exterminio_RAT_Cliente\\Form1.Designer.cs",
+              "RelativeToolTip": "Exterminio_RAT_Cliente\\Form1.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:48:13.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

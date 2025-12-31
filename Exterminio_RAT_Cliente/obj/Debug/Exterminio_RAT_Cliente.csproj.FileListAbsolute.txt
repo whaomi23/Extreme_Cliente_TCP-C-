@@ -1,0 +1,11 @@
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\bin\Debug\Exterminio_RAT_Cliente.exe.config
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\bin\Debug\Exterminio_RAT_Cliente.exe
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\bin\Debug\Exterminio_RAT_Cliente.pdb
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.csproj.AssemblyReference.cache
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.Exterminar.resources
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.Form1.resources
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.Properties.Resources.resources
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.csproj.GenerateResource.cache
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.exe
+C:\Users\GMKtec\Videos\Spy\Exterminio_RAT_Cliente\Exterminio_RAT_Cliente\obj\Debug\Exterminio_RAT_Cliente.pdb
